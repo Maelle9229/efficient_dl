@@ -1,4 +1,5 @@
-This project aims to improve the efficiency of th PreActResNet model (computational cost and accuracy).
+This project aims to improve the efficiency of th PreActResNet model (computational cost and accuracy) by using several techniques.
+
 
 You can see the description of the "score" we used to evaluate our model :
 --
